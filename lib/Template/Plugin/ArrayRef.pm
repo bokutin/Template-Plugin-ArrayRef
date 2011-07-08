@@ -5,7 +5,7 @@ use warnings;
 use Template::Exception;
 use Scalar::Util qw();
 
-our $VERSION   = 0.10;
+our $VERSION   = 0.11;
 our $MONAD     = 'Template::Monad::ArrayRef';
 our $EXCEPTION = 'Template::Exception';
 our $AUTOLOAD;
